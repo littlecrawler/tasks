@@ -19,6 +19,7 @@ public class Datamanager {
     public static final String EVENT = "E";
     private File dataFile;
 
+
     public File getDataFile() {
         return dataFile;
     }
